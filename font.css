@@ -25,56 +25,56 @@
 	font-family: 'NotoSans';
 	font-style: normal;
 	font-weight: 100;
-	src: url(../font/noto/NotoSans-Thin.eot);
-	src: local('※'), url(../font/noto/NotoSans-Thin.woff2) format('woff2'), url(../font/noto/NotoSans-Thin.woff) format('woff'), url(../font/noto/NotoSans-Thin.otf) format('opentype');
+	src: url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-Thin.eot);
+	src: local('※'), url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-Thin.woff2) format('woff2'), url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-Thin.woff) format('woff'), url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-Thin.otf) format('opentype');
 }
 
 @font-face {
 	font-family: 'NotoSans';
 	font-style: normal;
 	font-weight: 200;
-	src: url(../font/noto/NotoSans-Light.eot);
-	src: local('※'), url(../font/noto/NotoSans-Light.woff2) format('woff2'), url(../font/noto/NotoSans-Light.woff) format('woff'), url(../font/noto/NotoSans-Light.otf) format('opentype');
+	src: url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-Light.eot);
+	src: local('※'), url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-Light.woff2) format('woff2'), url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-Light.woff) format('woff'), url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-Light.otf) format('opentype');
 }
 
 @font-face {
 	font-family: 'NotoSans';
 	font-style: normal;
 	font-weight: 300;
-	src: url(../font/noto/NotoSans-DemiLight.eot);
-	src: local('※'), url(../font/noto/NotoSans-DemiLight.woff2) format('woff2'), url(../font/noto/NotoSans-DemiLight.woff) format('woff'), url(../font/noto/NotoSans-DemiLight.otf) format('opentype');
+	src: url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-DemiLight.eot);
+	src: local('※'), url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-DemiLight.woff2) format('woff2'), url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-DemiLight.woff) format('woff'), url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-DemiLight.otf) format('opentype');
 }
 
 @font-face {
 	font-family: 'NotoSans';
 	font-style: normal;
 	font-weight: 400;
-	src: url(../font/noto/NotoSans-Regular.eot);
-	src: local('※'), url(../font/noto/NotoSans-Regular.woff2) format('woff2'), url(../font/noto/NotoSans-Regular.woff) format('woff'), url(../font/noto/NotoSans-Regular.otf) format('opentype');
+	src: url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-Regular.eot);
+	src: local('※'), url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-Regular.woff2) format('woff2'), url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-Regular.woff) format('woff'), url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-Regular.otf) format('opentype');
 }
 
 @font-face {
 	font-family: 'NotoSans';
 	font-style: normal;
 	font-weight: 500;
-	src: url(../font/noto/NotoSans-Medium.eot);
-	src: local('※'), url(../font/noto/NotoSans-Medium.woff2) format('woff2'), url(../font/noto/NotoSans-Medium.woff) format('woff'), url(../font/noto/NotoSans-Medium.otf) format('opentype');
+	src: url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-Medium.eot);
+	src: local('※'), url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-Medium.woff2) format('woff2'), url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-Medium.woff) format('woff'), url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-Medium.otf) format('opentype');
 }
 
 @font-face {
 	font-family: 'NotoSans';
 	font-style: normal;
 	font-weight: 600;
-	src: url(../font/noto/NotoSans-Bold.eot);
-	src: local('※'), url(../font/noto/NotoSans-Bold.woff2) format('woff2'), url(../font/noto/NotoSans-Bold.woff) format('woff'), url(../font/noto/NotoSans-Bold.otf) format('opentype');
+	src: url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-Bold.eot);
+	src: local('※'), url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-Bold.woff2) format('woff2'), url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-Bold.woff) format('woff'), url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-Bold.otf) format('opentype');
 }
 
 @font-face {
 	font-family: 'NotoSans';
 	font-style: normal;
 	font-weight: 900;
-	src: url(../font/noto/NotoSans-Black.eot);
-	src: local('※'), url(../font/noto/NotoSans-Black.woff2) format('woff2'), url(../font/noto/NotoSans-Black.woff) format('woff'), url(../font/noto/NotoSans-Black.otf) format('opentype');
+	src: url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-Black.eot);
+	src: local('※'), url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-Black.woff2) format('woff2'), url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-Black.woff) format('woff'), url(https://seraphinaciel.github.io/commonSource/font/noto/NotoSans-Black.otf) format('opentype');
 }
 
 

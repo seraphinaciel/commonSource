@@ -758,9 +758,9 @@
 	font-style: normal;
 	font-weight: 400;
 	src: local('※'),
-		url(../font/tvN Enjoystories/tvn_lignt.woff2) format('woff2'),
-		url(../font/tvN Enjoystories/tvn_lignt.woff) format('woff'),
-		url(../font/tvN Enjoystories/tvn_lignt.ttf) format('truetype');
+		url(../font/tvN/tvn_lignt.woff2) format('woff2'),
+		url(../font/tvN/tvn_lignt.woff) format('woff'),
+		url(../font/tvN/tvn_lignt.ttf) format('truetype');
 }
 
 @font-face {
@@ -768,20 +768,20 @@
 	font-style: normal;
 	font-weight: 400;
 	src: local('※'),
-		url(../font/tvN Enjoystories/tvn_medium.woff2) format('woff2'),
-		url(../font/tvN Enjoystories/tvn_medium.woff) format('woff'),
-		url(../font/tvN Enjoystories/tvn_medium.ttf) format('truetype');
+		url(../font/tvN/tvn_medium.woff2) format('woff2'),
+		url(../font/tvN/tvn_medium.woff) format('woff'),
+		url(../font/tvN/tvn_medium.ttf) format('truetype');
 }
 
 @font-face {
 	font-family: 'tvN Enjoystories';
 	font-style: normal;
 	font-weight: 400;
-	src: url(../font/tvN Enjoystories/tvn_bold.eot);
+	src: url(../font/tvN/tvn_bold.eot);
 	src: local('※'),
-		url(../font/tvN Enjoystories/tvn_bold.woff2) format('woff2'),
-		url(../font/tvN Enjoystories/tvn_bold.woff) format('woff'),
-		url(../font/tvN Enjoystories/tvn_bold.ttf) format('truetype');
+		url(../font/tvN/tvn_bold.woff2) format('woff2'),
+		url(../font/tvN/tvn_bold.woff) format('woff'),
+		url(../font/tvN/tvn_bold.ttf) format('truetype');
 }
 
 
